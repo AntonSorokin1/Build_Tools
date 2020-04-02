@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cs:shop xmlns:cs="https://www.cs.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="https://www.cs.com/ xsd/SomeShopSchema.xsd">
+<cs:shop xmlns:cs="https://www.cs.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="https://www.cs.com/ xsd/ShopSchema.xsd">
     <category categoryName="kitchen">
         <subcategory subCategoryName="technique">
             <product manufacturer="BIRUSA" model="AB123" date="31-12-2020" color="Red"   price="100.10" number="0" isAvailable="false"/>
